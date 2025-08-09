@@ -1,0 +1,121 @@
+season,draft_id,draft_name,draft_type,status,num_teams,round,pick_no,overall_slot,nomination,auction_price,player_id,first_name,last_name,position,team,picked_by_user_id,picked_by_display,picked_by_team_name,roster_id,is_keeper
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,1,1,1,,1,345,Brian,Hoyer,QB,LV,791534307343724544,sandman2207,Raspberry Racers,6,False
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,1,2,1,,1,10983,Sean,Clifford,QB,GB,791534307343724544,sandman2207,Raspberry Racers,6,False
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,1,3,1,,1,23,Jason,Witten,TE,,791534307343724544,sandman2207,Raspberry Racers,6,False
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,1,4,1,,1,956,Mark,Ingram,RB,,791534307343724544,sandman2207,Raspberry Racers,6,False
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,1,5,2,,1,1979,Blake,Bortles,QB,NO,800266574987628544,Sandorasboxx,The Firefly Fun House,8,False
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,1,6,2,,1,7574,Larry,Rountree,RB,,800266574987628544,Sandorasboxx,The Firefly Fun House,8,False
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,1,7,2,,1,5915,Andy,Isabella,WR,BUF,800266574987628544,Sandorasboxx,The Firefly Fun House,8,False
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,1,8,2,,1,111,Marcedes,Lewis,TE,CHI,800266574987628544,Sandorasboxx,The Firefly Fun House,8,False
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,1,9,2,,1,1387,Rex,Burkhead,RB,,800266574987628544,Sandorasboxx,The Firefly Fun House,8,False
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,1,10,2,,1,2391,David,Johnson,RB,,800266574987628544,Sandorasboxx,The Firefly Fun House,8,False
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,1,11,3,,1,19,Joe,Flacco,QB,,807822209459556352,SavageSpeeders,SavageSpeeders ,10,False
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,1,12,3,,1,8218,Max,Borghi,RB,,807822209459556352,SavageSpeeders,SavageSpeeders ,10,False
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,2,13,3,,1,8769,Josh,Bist,TE,,807822209459556352,SavageSpeeders,SavageSpeeders ,10,False
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,2,14,4,,1,289,Drew,Brees,QB,,807828858731622400,theheffron,The Tater Thots,12,False
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,2,15,4,,1,8858,Keshunn,Abram,WR,,807828858731622400,theheffron,The Tater Thots,12,False
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,2,16,4,,1,7864,Artayvious,Lynn,TE,,807828858731622400,theheffron,The Tater Thots,12,False
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,2,17,5,,1,7376,Case,Cookus,QB,,475765880177815552,RealMikeBradley,Glory...Lasts Forever,1,False
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,2,18,5,,1,2168,Devonta,Freeman,RB,,475765880177815552,RealMikeBradley,Glory...Lasts Forever,1,False
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,2,19,5,,1,5744,Eldridge,Massington,WR,NO,475765880177815552,RealMikeBradley,Glory...Lasts Forever,1,False
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,2,20,5,,1,8741,Jamal,Pettigrew,TE,,475765880177815552,RealMikeBradley,Glory...Lasts Forever,1,False
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,2,21,5,,1,147,DeSean,Jackson,WR,,475765880177815552,RealMikeBradley,Glory...Lasts Forever,1,False
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,2,22,6,,1,7555,Jamie,Newman,QB,,459476133621002240,EddiePuodz,Stroud Boys,4,False
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,2,23,6,,1,2315,Todd,Gurley,RB,,459476133621002240,EddiePuodz,Stroud Boys,4,False
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,2,24,6,,1,1149,Alshon,Jeffery,WR,,459476133621002240,EddiePuodz,Stroud Boys,4,False
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,3,25,6,,1,8621,Garrett,Walston,TE,,459476133621002240,EddiePuodz,Stroud Boys,4,False
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,3,26,7,,1,1895,AJ,McCarron,QB,ATL,807825671157059584,LouRusso20,Sharp Bananas,11,False
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,3,27,7,,1,8424,Kevin,Marks,RB,,807825671157059584,LouRusso20,Sharp Bananas,11,False
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,3,28,7,,1,6361,Raphael,Leonard,WR,,807825671157059584,LouRusso20,Sharp Bananas,11,False
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,3,29,7,,1,8817,Nolan,Givan,TE,,807825671157059584,LouRusso20,Sharp Bananas,11,False
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,3,30,8,,1,1029,Nick,Foles,QB,,792870863715274752,jpbreaks,JPBreaks,7,False
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,3,31,8,,1,232,Frank,Gore,RB,,792870863715274752,jpbreaks,JPBreaks,7,False
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,3,32,8,,1,11520,Lucky,Jackson,WR,MIN,792870863715274752,jpbreaks,JPBreaks,7,False
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,3,33,9,,1,8553,Tre,Ford,QB,,807009871076671488,nistico60,Slave Bakery,9,False
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,3,34,9,,1,8778,Justin,Rigg,TE,TEN,807009871076671488,nistico60,Slave Bakery,9,False
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,3,35,9,,1,1290,Jermaine,Kearse,WR,,807009871076671488,nistico60,Slave Bakery,9,False
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,3,36,10,,1,2229,Garrett,Gilbert,QB,,598940115322064896,BroParty,SCLSU Mud Dogs,3,False
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,4,37,10,,1,8884,JJ,Howland,TE,,598940115322064896,BroParty,SCLSU Mud Dogs,3,False
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,4,38,10,,1,184,Adrian,Peterson,RB,,598940115322064896,BroParty,SCLSU Mud Dogs,3,False
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,4,39,11,,1,1169,Robert,Griffin,QB,,736862679649652736,loud1990,Keenan and Kelce,2,False
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,4,40,11,,1,559,Tim,Tebow,TE,,736862679649652736,loud1990,Keenan and Kelce,2,False
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,4,41,12,,1,6443,Eric,Dungey,QB,,790083700929957888,bpush20,PushMAndrews,5,False
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,4,42,12,,1,8751,Dylan,Parham,TE,,790083700929957888,bpush20,PushMAndrews,5,False
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,4,43,12,,1,8624,Changa,Hodge,WR,,790083700929957888,bpush20,PushMAndrews,5,False
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,4,44,10,,1,8892,Keric,Wheatfall,WR,,598940115322064896,BroParty,SCLSU Mud Dogs,3,False
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,4,45,11,,24,4035,Alvin,Kamara,RB,NO,736862679649652736,loud1990,Keenan and Kelce,2,
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,4,46,6,,45,5987,Alexander,Mattison,RB,MIN,459476133621002240,EddiePuodz,Stroud Boys,4,
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,4,47,9,,87,4983,DJ,Moore,WR,CHI,807009871076671488,nistico60,Slave Bakery,9,
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,4,48,12,,48,1479,Keenan,Allen,WR,LAC,790083700929957888,bpush20,PushMAndrews,5,
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,5,49,1,,69,4217,George,Kittle,TE,SF,791534307343724544,sandman2207,Raspberry Racers,6,
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,5,50,2,,66,1426,DeAndre,Hopkins,WR,TEN,800266574987628544,Sandorasboxx,The Firefly Fun House,8,
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,5,51,10,,57,2374,Tyler,Lockett,WR,SEA,598940115322064896,BroParty,SCLSU Mud Dogs,3,
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,5,52,1,,41,7608,Khalil,Herbert,RB,CHI,791534307343724544,sandman2207,Raspberry Racers,6,
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,5,53,3,,17,4017,Deshaun,Watson,QB,CLE,807822209459556352,SavageSpeeders,SavageSpeeders ,10,
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,5,54,10,,10,9494,Marvin,Mims,WR,DEN,598940115322064896,BroParty,SCLSU Mud Dogs,3,
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,5,55,2,,49,8154,Brian,Robinson,RB,WAS,800266574987628544,Sandorasboxx,The Firefly Fun House,8,
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,5,56,11,,18,3199,Michael,Thomas,WR,NO,736862679649652736,loud1990,Keenan and Kelce,2,
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,5,57,7,,26,4149,Jamaal,Williams,RB,NO,807825671157059584,LouRusso20,Sharp Bananas,11,
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,5,58,11,,24,2078,Odell,Beckham,WR,BAL,736862679649652736,loud1990,Keenan and Kelce,2,
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,5,59,12,,17,7571,Rashod,Bateman,WR,BAL,790083700929957888,bpush20,PushMAndrews,5,
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,5,60,3,,10,5947,Jakobi,Meyers,WR,LV,807822209459556352,SavageSpeeders,SavageSpeeders ,10,
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,6,61,7,,6,96,Aaron,Rodgers,QB,NYJ,807825671157059584,LouRusso20,Sharp Bananas,11,
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,6,62,5,,10,4033,David,Njoku,TE,CLE,475765880177815552,RealMikeBradley,Glory...Lasts Forever,1,
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,6,63,2,,9,1689,Adam,Thielen,WR,CAR,800266574987628544,Sandorasboxx,The Firefly Fun House,8,
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,6,64,3,,2,6820,Clyde,Edwards-Helaire,RB,KC,807822209459556352,SavageSpeeders,SavageSpeeders ,10,
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,6,65,8,,4,7601,Rondale,Moore,WR,ARI,792870863715274752,jpbreaks,JPBreaks,7,
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,6,66,5,,32,7600,Pat,Freiermuth,TE,PIT,475765880177815552,RealMikeBradley,Glory...Lasts Forever,1,
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,6,67,5,,15,5870,Daniel,Jones,QB,NYG,475765880177815552,RealMikeBradley,Glory...Lasts Forever,1,
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,6,68,4,,16,6768,Tua,Tagovailoa,QB,MIA,807828858731622400,theheffron,The Tater Thots,12,
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,6,69,1,,5,6886,Chase,Claypool,WR,CHI,791534307343724544,sandman2207,Raspberry Racers,6,
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,6,70,3,,31,6826,Cole,Kmet,TE,CHI,807822209459556352,SavageSpeeders,SavageSpeeders ,10,
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,6,71,8,,53,9225,Tank,Bigsby,RB,JAX,792870863715274752,jpbreaks,JPBreaks,7,
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,6,72,10,,2,4951,DJ,Chark,WR,CAR,598940115322064896,BroParty,SCLSU Mud Dogs,3,
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,7,73,12,,7,6130,Devin,Singletary,RB,HOU,790083700929957888,bpush20,PushMAndrews,5,
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,7,74,4,,9,3294,Dak,Prescott,QB,DAL,807828858731622400,theheffron,The Tater Thots,12,
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,7,75,3,,2,3225,Tyler,Boyd,WR,CIN,807822209459556352,SavageSpeeders,SavageSpeeders ,10,
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,7,76,7,,3,5001,Dalton,Schultz,TE,HOU,807825671157059584,LouRusso20,Sharp Bananas,11,
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,7,77,4,,16,4147,Samaje,Perine,RB,DEN,807828858731622400,theheffron,The Tater Thots,12,
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,7,78,5,,15,7567,Kenneth,Gainwell,RB,PHI,475765880177815552,RealMikeBradley,Glory...Lasts Forever,1,
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,7,79,6,,12,7569,Nico,Collins,WR,HOU,459476133621002240,EddiePuodz,Stroud Boys,4,
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,7,80,12,,12,1166,Kirk,Cousins,QB,MIN,790083700929957888,bpush20,PushMAndrews,5,
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,7,81,1,,1,7670,Joshua,Palmer,WR,LAC,791534307343724544,sandman2207,Raspberry Racers,6,
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,7,82,4,,31,9481,Luke,Musgrave,TE,GB,807828858731622400,theheffron,The Tater Thots,12,
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,7,83,10,,5,3271,Tyler,Higbee,TE,LAR,598940115322064896,BroParty,SCLSU Mud Dogs,3,
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,7,84,11,,5,1373,Geno,Smith,QB,SEA,736862679649652736,loud1990,Keenan and Kelce,2,
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,8,85,5,,33,9506,Sean,Tucker,RB,TB,475765880177815552,RealMikeBradley,Glory...Lasts Forever,1,
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,8,86,6,,11,8210,Chigoziem,Okonkwo,TE,TEN,459476133621002240,EddiePuodz,Stroud Boys,4,
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,8,87,3,,2,4111,D'Onta,Foreman,RB,CHI,807822209459556352,SavageSpeeders,SavageSpeeders ,10,
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,8,88,8,,5,8143,Jerome,Ford,RB,CLE,792870863715274752,jpbreaks,JPBreaks,7,
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,8,89,4,,5,2161,Jerick,McKinnon,RB,KC,807828858731622400,theheffron,The Tater Thots,12,
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,8,90,10,,1,10444,Cedric,Tillman,WR,CLE,598940115322064896,BroParty,SCLSU Mud Dogs,3,
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,8,91,7,,10,4080,Zay,Jones,WR,JAX,807825671157059584,LouRusso20,Sharp Bananas,11,
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,8,92,12,,3,8172,Greg,Dulcich,TE,DEN,790083700929957888,bpush20,PushMAndrews,5,
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,8,93,1,,10,8676,Rashid,Shaheed,WR,NO,791534307343724544,sandman2207,Raspberry Racers,6,
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,8,94,7,,31,10871,Luke,Schoonmaker,TE,DAL,807825671157059584,LouRusso20,Sharp Bananas,11,
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,8,95,4,,11,2749,Raheem,Mostert,RB,MIA,807828858731622400,theheffron,The Tater Thots,12,
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,8,96,7,,20,9505,Deuce,Vaughn,RB,DAL,807825671157059584,LouRusso20,Sharp Bananas,11,
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,9,97,2,,30,8160,Kenny,Pickett,QB,PIT,800266574987628544,Sandorasboxx,The Firefly Fun House,8,
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,9,98,6,,12,3163,Jared,Goff,QB,DET,459476133621002240,EddiePuodz,Stroud Boys,4,
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,9,99,4,,12,6824,Donovan,Peoples-Jones,WR,CLE,807828858731622400,theheffron,The Tater Thots,12,
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,9,100,10,,5,5038,Michael,Gallup,WR,DAL,598940115322064896,BroParty,SCLSU Mud Dogs,3,
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,9,101,11,,1,5880,Parris,Campbell,WR,NYG,736862679649652736,loud1990,Keenan and Kelce,2,
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,9,102,12,,1,9227,Israel,Abanikanda,RB,NYJ,790083700929957888,bpush20,PushMAndrews,5,
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,9,103,1,,10,7594,Chuba,Hubbard,RB,CAR,791534307343724544,sandman2207,Raspberry Racers,6,
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,9,104,3,,5,421,Matthew,Stafford,QB,LAR,807822209459556352,SavageSpeeders,SavageSpeeders ,10,
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,9,105,6,,1,8183,Brock,Purdy,QB,SF,459476133621002240,EddiePuodz,Stroud Boys,4,
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,9,106,8,,1,7527,Mac,Jones,QB,NE,792870863715274752,jpbreaks,JPBreaks,7,
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,9,107,9,,1,9479,Darnell,Washington,TE,PIT,807009871076671488,nistico60,Slave Bakery,9,
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,9,108,11,,1,10232,Michael,Wilson,WR,ARI,736862679649652736,loud1990,Keenan and Kelce,2,
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,10,109,8,,2,9222,Zach,Evans,RB,LAR,792870863715274752,jpbreaks,JPBreaks,7,
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,10,110,6,,19,5284,Jeff,Wilson,RB,MIA,459476133621002240,EddiePuodz,Stroud Boys,4,
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,10,111,8,,1,9998,Hendon,Hooker,QB,DET,792870863715274752,jpbreaks,JPBreaks,7,
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,10,112,9,,1,5955,Hunter,Renfrow,WR,LV,807009871076671488,nistico60,Slave Bakery,9,
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,10,113,11,,1,6920,Isaiah,Hodgins,WR,NYG,736862679649652736,loud1990,Keenan and Kelce,2,
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,10,114,12,,2,7794,Chris,Evans,RB,CIN,790083700929957888,bpush20,PushMAndrews,5,
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,10,115,8,,1,5248,Gus,Edwards,RB,BAL,792870863715274752,jpbreaks,JPBreaks,7,
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,10,116,9,,1,9512,DeWayne,McBride,RB,MIN,807009871076671488,nistico60,Slave Bakery,9,
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,10,117,11,,1,1352,Robert,Woods,WR,HOU,736862679649652736,loud1990,Keenan and Kelce,2,
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,10,118,9,,1,9504,Kayshon,Boutte,WR,NE,807009871076671488,nistico60,Slave Bakery,9,
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,10,119,9,,1,10223,Eric,Gray,RB,NYG,807009871076671488,nistico60,Slave Bakery,9,
+2023,962425574486552576,Dine Nasty Football 2K23,auction,complete,12,10,120,9,,1,7066,K.J.,Osborn,WR,MIN,807009871076671488,nistico60,Slave Bakery,9,

@@ -1,0 +1,109 @@
+season,draft_id,draft_name,draft_type,status,num_teams,round,pick_no,overall_slot,nomination,auction_price,player_id,first_name,last_name,position,team,picked_by_user_id,picked_by_display,picked_by_team_name,roster_id,is_keeper
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,1,1,1,,1,4881,Lamar,Jackson,QB,BAL,792870863715274752,jpbreaks,JPBreaks,7,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,1,2,1,,1,6820,Clyde,Edwards-Helaire,RB,KC,792870863715274752,jpbreaks,JPBreaks,7,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,1,3,1,,1,5846,DK,Metcalf,WR,SEA,792870863715274752,jpbreaks,JPBreaks,7,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,1,4,1,,1,4988,Nick,Chubb,RB,CLE,792870863715274752,jpbreaks,JPBreaks,7,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,1,5,1,,1,4037,Chris,Godwin,WR,TB,792870863715274752,jpbreaks,JPBreaks,7,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,1,6,1,,1,3423,Robby,Anderson,WR,CAR,792870863715274752,jpbreaks,JPBreaks,7,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,1,7,2,,1,5849,Kyler,Murray,QB,ARI,807822209459556352,SavageSpeeders,SavageSpeeders ,10,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,1,8,2,,1,5892,David,Montgomery,RB,CHI,807822209459556352,SavageSpeeders,SavageSpeeders ,10,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,1,9,2,,1,3198,Derrick,Henry,RB,TEN,807822209459556352,SavageSpeeders,SavageSpeeders ,10,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,1,10,2,,1,6783,Jerry,Jeudy,WR,DEN,807822209459556352,SavageSpeeders,SavageSpeeders ,10,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,1,11,3,,1,3164,Ezekiel,Elliott,RB,DAL,800266574987628544,Sandorasboxx,The Bleznicks,8,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,1,12,3,,1,7553,Kyle,Pitts,TE,ATL,800266574987628544,Sandorasboxx,The Bleznicks,8,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,2,13,3,,1,2216,Mike,Evans,WR,TB,800266574987628544,Sandorasboxx,The Bleznicks,8,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,2,14,3,,1,6789,Henry,Ruggs,WR,LV,800266574987628544,Sandorasboxx,The Bleznicks,8,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,2,15,3,,1,7564,Ja'Marr,Chase,WR,CIN,800266574987628544,Sandorasboxx,The Bleznicks,8,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,2,16,3,,1,1426,DeAndre,Hopkins,WR,ARI,800266574987628544,Sandorasboxx,The Bleznicks,8,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,2,17,4,,1,3321,Tyreek,Hill,WR,KC,807009871076671488,nistico60,Slave Bakery,9,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,2,18,4,,1,1992,Allen,Robinson,WR,CHI,807009871076671488,nistico60,Slave Bakery,9,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,2,19,4,,1,4866,Saquon,Barkley,RB,NYG,807009871076671488,nistico60,Slave Bakery,9,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,2,20,4,,1,2505,Darren,Waller,TE,LV,807009871076671488,nistico60,Slave Bakery,9,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,2,21,5,,70,4984,Josh,Allen,QB,BUF,598940115322064896,BroParty,SCLSU Mud Dogs,3,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,2,22,5,,1,4018,Joe,Mixon,RB,CIN,598940115322064896,BroParty,SCLSU Mud Dogs,3,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,2,23,5,,1,2449,Stefon,Diggs,WR,BUF,598940115322064896,BroParty,SCLSU Mud Dogs,3,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,2,24,5,,1,5927,Terry,McLaurin,WR,WAS,598940115322064896,BroParty,SCLSU Mud Dogs,3,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,3,25,5,,1,7527,Mac,Jones,QB,NE,598940115322064896,BroParty,SCLSU Mud Dogs,3,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,3,26,5,,1,8151,Kenneth,Walker,RB,SEA,598940115322064896,BroParty,SCLSU Mud Dogs,3,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,3,27,5,,1,7600,Pat,Freiermuth,TE,PIT,598940115322064896,BroParty,SCLSU Mud Dogs,3,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,3,28,1,,1,7538,Zach,Wilson,QB,NYJ,792870863715274752,jpbreaks,JPBreaks,7,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,3,29,2,,1,7543,Travis,Etienne,RB,JAX,807822209459556352,SavageSpeeders,SavageSpeeders ,10,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,3,30,4,,1,7601,Rondale,Moore,WR,ARI,807009871076671488,nistico60,Slave Bakery,9,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,3,31,6,,79,6794,Justin,Jefferson,WR,MIN,475765880177815552,RealMikeBradley,Glory...Lasts Forever,1,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,3,32,6,,1,4981,Calvin,Ridley,WR,ATL,475765880177815552,RealMikeBradley,Glory...Lasts Forever,1,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,3,33,6,,1,7588,Javonte,Williams,RB,DEN,475765880177815552,RealMikeBradley,Glory...Lasts Forever,1,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,3,34,6,,1,7591,Justin,Fields,QB,CHI,475765880177815552,RealMikeBradley,Glory...Lasts Forever,1,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,3,35,6,,1,6886,Chase,Claypool,WR,PIT,475765880177815552,RealMikeBradley,Glory...Lasts Forever,1,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,3,36,6,,1,6801,Tee,Higgins,WR,CIN,475765880177815552,RealMikeBradley,Glory...Lasts Forever,1,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,4,37,3,,1,7523,Trevor,Lawrence,QB,JAX,800266574987628544,Sandorasboxx,The Bleznicks,8,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,4,38,3,,1,7571,Rashod,Bateman,WR,BAL,800266574987628544,Sandorasboxx,The Bleznicks,8,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,4,39,6,,1,7540,Amari,Rodgers,WR,GB,475765880177815552,RealMikeBradley,Glory...Lasts Forever,1,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,4,40,7,,1,6797,Justin,Herbert,QB,LAC,807825671157059584,LouRusso20,Sharp Bananas,11,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,4,41,7,,1,5850,Josh,Jacobs,RB,LV,807825671157059584,LouRusso20,Sharp Bananas,11,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,4,42,7,,1,4035,Alvin,Kamara,RB,NO,807825671157059584,LouRusso20,Sharp Bananas,11,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,4,43,7,,1,7525,DeVonta,Smith,WR,PHI,807825671157059584,LouRusso20,Sharp Bananas,11,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,4,44,7,,1,5937,Diontae,Johnson,WR,PIT,807825671157059584,LouRusso20,Sharp Bananas,11,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,4,45,7,,1,2133,Davante,Adams,WR,GB,807825671157059584,LouRusso20,Sharp Bananas,11,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,4,46,7,,1,7607,Michael,Carter,RB,NYJ,807825671157059584,LouRusso20,Sharp Bananas,11,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,4,47,7,,1,6984,Tony,Jones,RB,NO,807825671157059584,LouRusso20,Sharp Bananas,11,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,4,48,7,,1,7612,D'Wayne,Eskridge,WR,SEA,807825671157059584,LouRusso20,Sharp Bananas,11,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,5,49,8,,1,4046,Patrick,Mahomes,QB,KC,791534307343724544,sandman2207,Raspberry Racers,6,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,5,50,8,,1,6813,Jonathan,Taylor,RB,IND,791534307343724544,sandman2207,Raspberry Racers,6,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,5,51,8,,1,4273,Chris,Carson,RB,SEA,791534307343724544,sandman2207,Raspberry Racers,6,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,5,52,8,,1,6786,CeeDee,Lamb,WR,DAL,791534307343724544,sandman2207,Raspberry Racers,6,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,5,53,8,,1,1689,Adam,Thielen,WR,MIN,791534307343724544,sandman2207,Raspberry Racers,6,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,5,54,8,,1,7606,Kadarius,Toney,WR,NYG,791534307343724544,sandman2207,Raspberry Racers,6,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,5,55,9,,1,6803,Brandon,Aiyuk,WR,SF,459476133621002240,EddiePuodz,Frank’s Third Reich,4,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,5,56,9,,84,4029,Dalvin,Cook,RB,MIN,459476133621002240,EddiePuodz,Frank’s Third Reich,4,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,5,57,9,,1,6151,Miles,Sanders,RB,PHI,459476133621002240,EddiePuodz,Frank’s Third Reich,4,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,5,58,9,,1,2309,Amari,Cooper,WR,DAL,459476133621002240,EddiePuodz,Frank’s Third Reich,4,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,5,59,9,,1,7610,Trey,Lance,QB,SF,459476133621002240,EddiePuodz,Frank’s Third Reich,4,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,5,60,9,,1,7565,Terrace,Marshall,WR,CAR,459476133621002240,EddiePuodz,Frank’s Third Reich,4,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,6,61,9,,1,7572,Kylin,Hill,RB,GB,459476133621002240,EddiePuodz,Frank’s Third Reich,4,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,6,62,10,,1,7528,Najee,Harris,RB,PIT,807828858731622400,theheffron,The Tater Thots,12,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,6,63,10,,1,6945,Antonio,Gibson,RB,WAS,807828858731622400,theheffron,The Tater Thots,12,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,6,64,10,,1,5859,A.J.,Brown,WR,TEN,807828858731622400,theheffron,The Tater Thots,12,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,6,65,10,,1,4983,DJ,Moore,WR,CAR,807828858731622400,theheffron,The Tater Thots,12,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,6,66,10,,1,7526,Jaylen,Waddle,WR,MIA,807828858731622400,theheffron,The Tater Thots,12,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,6,67,10,,1,7547,Amon-Ra,St. Brown,WR,DET,807828858731622400,theheffron,The Tater Thots,12,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,6,68,10,,1,7593,Trey,Sermon,RB,SF,807828858731622400,theheffron,The Tater Thots,12,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,6,69,10,,1,7581,Kellen,Mond,QB,MIN,807828858731622400,theheffron,The Tater Thots,12,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,6,70,11,,104,4034,Christian,McCaffrey,RB,CAR,736862679649652736,loud1990,Keenan and Kelce,2,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,6,71,11,,1,6790,D'Andre,Swift,RB,DET,736862679649652736,loud1990,Keenan and Kelce,2,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,6,72,11,,1,1466,Travis,Kelce,TE,KC,736862679649652736,loud1990,Keenan and Kelce,2,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,7,73,11,,1,1479,Keenan,Allen,WR,LAC,736862679649652736,loud1990,Keenan and Kelce,2,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,7,74,11,,1,4039,Cooper,Kupp,WR,LAR,736862679649652736,loud1990,Keenan and Kelce,2,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,7,75,11,,1,2374,Tyler,Lockett,WR,SEA,736862679649652736,loud1990,Keenan and Kelce,2,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,7,76,11,,1,7587,Dyami,Brown,WR,WAS,736862679649652736,loud1990,Keenan and Kelce,2,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,7,77,12,,1,4199,Aaron,Jones,RB,GB,790083700929957888,bpush20,PushMAndrews,5,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,7,78,12,,1,4663,Austin,Ekeler,RB,LAC,790083700929957888,bpush20,PushMAndrews,5,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,7,79,12,,1,1352,Robert,Woods,WR,LAR,790083700929957888,bpush20,PushMAndrews,5,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,7,80,12,,94,4217,George,Kittle,TE,SF,790083700929957888,bpush20,PushMAndrews,5,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,7,81,12,,1,5012,Mark,Andrews,TE,BAL,790083700929957888,bpush20,PushMAndrews,5,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,7,82,12,,1,7596,Elijah,Moore,WR,NYJ,790083700929957888,bpush20,PushMAndrews,5,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,7,83,12,,1,6804,Jordan,Love,QB,GB,790083700929957888,bpush20,PushMAndrews,5,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,7,84,10,,1,8155,Breece,Hall,RB,NYJ,807828858731622400,theheffron,The Tater Thots,12,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,8,85,7,,1,8146,Garrett,Wilson,WR,NYJ,807825671157059584,LouRusso20,Sharp Bananas,11,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,8,86,4,,1,8112,Drake,London,WR,ATL,807009871076671488,nistico60,Slave Bakery,9,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,8,87,4,,1,8148,Jameson,Williams,WR,DET,807009871076671488,nistico60,Slave Bakery,9,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,8,88,1,,1,8135,Treylon,Burks,WR,TEN,792870863715274752,jpbreaks,JPBreaks,7,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,8,89,6,,1,8144,Chris,Olave,WR,NO,475765880177815552,RealMikeBradley,Glory...Lasts Forever,1,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,8,90,11,,1,8142,Alec,Pierce,WR,IND,736862679649652736,loud1990,Keenan and Kelce,2,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,8,91,9,,1,8168,Skyy,Moore,WR,KC,459476133621002240,EddiePuodz,Frank’s Third Reich,4,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,8,92,3,,1,8138,James,Cook,RB,BUF,800266574987628544,Sandorasboxx,The Bleznicks,8,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,8,93,8,,1,8167,Christian,Watson,WR,GB,791534307343724544,sandman2207,Raspberry Racers,6,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,8,94,2,,1,8137,George,Pickens,WR,PIT,807822209459556352,SavageSpeeders,SavageSpeeders ,10,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,8,95,5,,1,8119,Jahan,Dotson,WR,WAS,598940115322064896,BroParty,SCLSU Mud Dogs,3,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,8,96,12,,1,8129,Dameon,Pierce,RB,HOU,790083700929957888,bpush20,PushMAndrews,5,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,9,97,8,,1,8153,Isaiah,Spiller,RB,LAC,791534307343724544,sandman2207,Raspberry Racers,6,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,9,98,3,,1,8160,Kenny,Pickett,QB,PIT,800266574987628544,Sandorasboxx,The Bleznicks,8,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,9,99,1,,1,8154,Brian,Robinson,RB,WAS,792870863715274752,jpbreaks,JPBreaks,7,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,9,100,6,,1,8136,Rachaad,White,RB,TB,475765880177815552,RealMikeBradley,Glory...Lasts Forever,1,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,9,101,7,,1,8118,David,Bell,WR,CLE,807825671157059584,LouRusso20,Sharp Bananas,11,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,9,102,3,,1,8147,John,Metchie,WR,HOU,800266574987628544,Sandorasboxx,The Bleznicks,8,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,9,103,4,,1,8223,Velus,Jones,WR,CHI,807009871076671488,nistico60,Slave Bakery,9,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,9,104,2,,1,8117,Jalen,Tolbert,WR,DAL,807822209459556352,SavageSpeeders,SavageSpeeders ,10,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,9,105,5,,1,8139,Zamir,White,RB,LV,598940115322064896,BroParty,SCLSU Mud Dogs,3,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,9,106,10,,1,8188,Tyquan,Thornton,WR,NE,807828858731622400,theheffron,The Tater Thots,12,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,9,107,3,,1,6770,Joe,Burrow,QB,CIN,800266574987628544,Sandorasboxx,The Bleznicks,8,False
+2022,780973720935538688,Dine Nasty Football 2K22,auction,complete,12,9,108,3,,1,6806,J.K.,Dobbins,RB,BAL,800266574987628544,Sandorasboxx,The Bleznicks,8,False

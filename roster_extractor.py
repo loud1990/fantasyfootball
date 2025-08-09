@@ -4,11 +4,14 @@ Roster extractor: outputs only regularly rostered players per team from division
 Usage:
   python roster_extractor.py
     - Reads BeamenDivision.csv and writes roster_players.csv
+    - Also writes extracted_roster.csv containing only the player names (single column: Player)
 
   python roster_extractor.py --both
     - Processes:
         BeamenDivision.csv -> roster_players.csv
         Falco.csv -> roster_players_falco.csv
+    - Also writes extracted_roster.csv containing all extracted player names from both datasets
+      in order (BeamenDivision first, then Falco), with a single column: Player
 
 Programmatic use:
   from roster_extractor import get_roster_players_by_team
@@ -142,7 +145,6 @@ def extract_roster(rows: List[List[str]]) -> List[Dict[str, str]]:
             entries.append({"Team": team, "Position": pos_raw, "Player": player})
     return entries
 
-
 def write_output(entries: List[Dict[str, str]], out_path: str) -> None:
     """Write entries to CSV with header: Team, Position, Player."""
     with open(out_path, "w", encoding="utf-8", newline="") as f:
@@ -150,6 +152,15 @@ def write_output(entries: List[Dict[str, str]], out_path: str) -> None:
         writer.writerow(["Team", "Position", "Player"])
         for e in entries:
             writer.writerow([e["Team"], e["Position"], e["Player"]])
+
+
+def write_players_output(entries: List[Dict[str, str]], out_path: str) -> None:
+    """Write only player names to CSV with header: Player."""
+    with open(out_path, "w", encoding="utf-8", newline="") as f:
+        writer = csv.writer(f)
+        writer.writerow(["Player"])
+        for e in entries:
+            writer.writerow([e["Player"]])
 
 
 def get_roster_players_by_team(team_name: str, input_csv: str = "BeamenDivision.csv") -> List[str]:
@@ -163,16 +174,18 @@ def get_roster_players_by_team(team_name: str, input_csv: str = "BeamenDivision.
     return [e["Player"] for e in entries if _norm_team(e["Team"]) == target]
 
 
-def _process_dataset(input_path: str, output_path: str, label: str = "") -> None:
+def _process_dataset(input_path: str, output_path: str, label: str = "") -> List[Dict[str, str]]:
     """
     Read -> extract -> write -> print. Intentionally prints only player names to stdout.
     The label parameter is accepted for parity with the practice squad tool; it is not used.
+    Returns the extracted entries.
     """
     rows = read_csv_rows(input_path)
     entries = extract_roster(rows)
     write_output(entries, output_path)
     for e in entries:
         print(e["Player"])
+    return entries
 
 
 def main() -> None:
@@ -187,13 +200,15 @@ def main() -> None:
     args = parser.parse_args()
 
     if args.both:
-        _process_dataset("BeamenDivision.csv", "roster_players.csv", label="BeamenDivision")
-        _process_dataset("Falco.csv", "roster_players_falco.csv", label="Falco")
+        entries_beamen = _process_dataset("BeamenDivision.csv", "roster_players.csv", label="BeamenDivision")
+        entries_falco = _process_dataset("Falco.csv", "roster_players_falco.csv", label="Falco")
+        write_players_output(entries_beamen + entries_falco, "extracted_roster.csv")
         return
 
     rows = read_csv_rows(args.input)
     entries = extract_roster(rows)
     write_output(entries, args.out)
+    write_players_output(entries, "extracted_roster.csv")
     for e in entries:
         print(e["Player"])
 

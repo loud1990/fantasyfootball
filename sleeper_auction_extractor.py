@@ -4,7 +4,7 @@ from pathlib import Path
 import time
 import requests
 
-LEAGUE_ID = "1048776197225738240"
+LEAGUE_ID = "780973719656284160"
 OUTDIR = Path("sleeper_drafts_csv")
 RATE_DELAY = 0.25  # be nice to their API
 
